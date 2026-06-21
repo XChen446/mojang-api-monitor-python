@@ -43,8 +43,8 @@ build = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/PCL-Community/Mojang-API-Monitor"
-Repository = "https://github.com/PCL-Community/Mojang-API-Monitor"
+Homepage = "https://github.com/XChen446/mojang-api-monitor-python"
+Repository = "https://github.com/XChen446/mojang-api-monitor-python"
 
 [project.scripts]
 mojang-api-monitor = "mojang_api_monitor.cli:main"
