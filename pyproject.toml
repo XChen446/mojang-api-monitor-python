@@ -4,14 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mojang-api-monitor"
-version = "1.0.0"
+version = "1.0.1"
 description = "监控 Mojang API 各服务状态的 Python 库"
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
 keywords = ["minecraft", "mojang", "api", "monitor"]
 authors = [
-    { name = "lhx077", email = "lhx077@users.noreply.github.com" }
+    { name = "XChen446", email = "XChen446@users.noreply.github.com" }
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
